@@ -41,19 +41,17 @@ En el código **face_recognition.py** se encuentra el ejercicio de reconocimient
 
 ## Resultados
 
-Los resultados de la ejecución se pueden visualizar en la dirección del [dashboard](http://localhost:1880/ui/) de **Node-RED**
-
 En la siguiente imagen se muestra el resultado de la ejercicio número 1
 
-![](https://github.com/rvnava/apertura_puertas_reconocimiento/deepface/evidencia/blob/main/Evidencia_ejercicio_1.png?raw=true)
+![](https://github.com/rvnava/apertura_puertas_reconocimiento/blob/0537f1e5d4341eeac90d09d8e8aa38bab232a9d9/deepface/evidencia/Evidencia_ejercicio_1.png?raw=true)
 
 En la siguiente imagen se muestra el resultado de la ejercicio número 2
 
-![](https://github.com/rvnava/apertura_puertas_reconocimiento/deepface/evidencia/blob/main/Evidencia_ejercicio_2.png?raw=true)
+![](https://github.com/rvnava/apertura_puertas_reconocimiento/blob/0537f1e5d4341eeac90d09d8e8aa38bab232a9d9/deepface/evidencia/Evidencia_ejercicio_2.png?raw=true)
 
 En la siguiente imagen se muestra el resultado de la ejercicio número 3
 
-![](https://github.com/rvnava/apertura_puertas_reconocimiento/deepface/evidencia/blob/main/Comparacion.png?raw=true)
+![](https://github.com/rvnava/apertura_puertas_reconocimiento/blob/0537f1e5d4341eeac90d09d8e8aa38bab232a9d9/deepface/evidencia/Comparacion.png?raw=true)
 
 ## Evidencias
 
